@@ -5,11 +5,17 @@ This system simulates the fundamental operations of a small pharmacy, allowing u
 ## 🛠️ Features
 
 ✔️ Add and manage medicine records
+
 ✔️ Update existing medicine details
+
 ✔️ Search and view inventory
+
 ✔️ Delete obsolete or expired items
+
 ✔️ Basic sales/transaction logic
+
 ✔️ Data handling using C++ classes and file I/O
+
 ✔️ Modular code structure that highlights OOP usage
 
 ## 🧠 Purpose
